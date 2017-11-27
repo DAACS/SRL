@@ -20,7 +20,7 @@ toc: false
 Learners who frequently use a variety of strategies to learn and remember information might ask themselves things like, “Is this the best way to learn this type of information?” or “How can I be doing this activity differently to enhance my learning?” By continually thinking about the strategies needed to learn information in their courses, learners can develop a bigger strategy “toolkit” from which to learn. To improve how well they understand concepts and material, learners may elaborate on concepts they are learning, quiz themselves to check their comprehension, and make flash cards or summaries to help them remember information. 
 Because developing an array of learning strategies is important for all learners in college, you might be interested in learning more about how frequently you use these types of strategies. If so, we encourage you to take the SRL survey by clicking <a href="https://demo.daacs.net/">here</a>.
 
-## WHY is time management important?
+## WHY is managing your understanding important?
 
 By consistently using strategies to optimize how well you learn information, it is likely that you will:
 * feel better prepared for upcoming tests
