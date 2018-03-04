@@ -44,7 +44,7 @@ Maria doesn’t understand the material and gives up quickly. Her experience mig
  
  <div class="col-md-6" style="margin-top: 20px"> <!-- Adjust the margin-top until the text displays where you want -->
 After taking the survey, Maria realized that her beliefs about her ability to learn in an online environment (her self-efficacy) were very negative. Maria decided to try to use some of the recommended strategies to improve her self-efficacy. Before her next paper was due, Maria decided to change her negative thinking into positive thoughts; instead of thinking “This is going to be too hard, I don’t care how I do,” she decided to think, “I can do this; it’s not impossible. I’m going to successfully complete this paper!” </div><div class="col-md-6"><blockquote class="oval-thought">
-Maria realized that she could start changing some things, and told herself *“This is all a process; it won’t change all at once.” 
+Maria realized that she could start changing some things, and told herself “This is all a process; it won’t change all at once.” 
 </blockquote></div>
  
  <div class="col-md-6" style="margin-top: 50px"> <!-- Adjust the margin-top until the text displays where you want -->
@@ -58,7 +58,7 @@ Maria continued to face challenges. Sometimes she would continue to engage in ne
 </blockquote></div>
 
 <div class="col-md-6" style="margin-top: 30px"> <!-- Adjust the margin-top until the text displays where you want -->
-Throughout the course, Maria began to feel less frustrated and more prepared to tackle new writing assignments. Even though she would occasionally doubt her abilities, Maria felt she did not need to avoid writing. assignments or online courses in the future. </div><div class="col-md-6"><blockquote class="oval-thought">
+Throughout the course, Maria began to feel less frustrated and more prepared to tackle new writing assignments. Even though she would occasionally doubt her abilities, Maria felt she did not need to avoid writing assignments or online courses in the future. </div><div class="col-md-6"><blockquote class="oval-thought">
 Maria can continue to use the recommendations and find new ways to improve her self-efficacy. 
 </blockquote></div>
 
