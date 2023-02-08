@@ -1,5 +1,7 @@
 ## DAACS Self-Regulated Learning Lab
 
+**THIS REPO IS DEPRACATED. The SRL Lab has moved to Wordpress and is available at https://srl.daacs.net**.
+
 The repository hosts the [Self-Regulated Learning Lab](http://srl.daacs.net) that supports the [Diagnostic Assessment & Achievement of College Skills (DAACS)](http://daacs.net).
 
 **NOTE: This site is currently under development. Please do not copy or use any materials here without prior permission.**
